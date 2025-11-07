@@ -5,4 +5,3 @@ google-auth-oauthlib
 groq
 python-dotenv
 pydub
-sqlite3
