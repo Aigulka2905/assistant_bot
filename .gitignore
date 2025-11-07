@@ -1,0 +1,8 @@
+.env
+token.pickle
+meetings.db
+meetings.json
+__pycache__
+*.pyc
+*.pickle
+.DS_Store
